@@ -29,8 +29,9 @@ The dataset (`supply_chain_data.csv`) is pre-cleaned and structured, featuring 2
 
 ## Dashboard Preview
 
-![Supply Chain Dashboard Preview](dashboard_preview.png)
-
+![Overview Dashboard](SC%20Analysis%20Dashboard_Overview.jpg)
+![Products Dashboard](SC%20Analysis%20Dashboard_Products.jpg)
+![Suppliers Dashboard](SC%20Analysis%20Dashboard_Suppliers.jpg)
 ---
 
 ## Tools & Technologies Used
